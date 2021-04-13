@@ -1,0 +1,39 @@
+
+header { text-align: center;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+
+body {
+    background-image: url(../img.jpg);
+  
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: #fff;
+}
+
+footer {
+
+    color: #fff;
+    margin-top: 600px;
+    margin-left: 550px;
+}
+
+form, #employee form {
+    padding: 5%;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    float: right;
+    background: #0000006b;
+}
+
+h2 {
+    padding: 3%;
+    position: absolute;
+    top: 15%;
+    left: 20%;
+    float: right;
+}
+
